@@ -1,0 +1,4 @@
+/coverage
+/dist/react.html
+/node_modules
+npm-debug.log*
